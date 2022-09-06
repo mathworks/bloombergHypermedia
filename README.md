@@ -2,7 +2,7 @@
 
 ## Description
 
-This interface allows users to access the Bloomberg Hypermedia directly from MATLAB.  Quantative analysts and asset managers can use the available historical and current market data to make investment decisions related to risk and return optimization.
+This interface allows users to access the Bloomberg Hypermedia directly from MATLAB.  Quantitative analysts and asset managers can use the available historical and current market data to make investment decisions related to risk and return optimization.
 
 ## System Requirements
 
